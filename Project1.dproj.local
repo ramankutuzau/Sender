@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.949,G:\Projects\Unit1.dfm=G:\Sender\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.434,G:\Projects\Project1.dproj=G:\Sender\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.949,G:\Projects\Unit1.pas=G:\Sender\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.987,=G:\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.943,=G:\Smssender\SmsSender.pas</Transaction>
+  </Transactions>
+</BorlandProject>
